@@ -2,7 +2,7 @@
 
 ## Five Fives at Fuckass LARPER Edition Source
 
-The source of the FNaF fangame Five Fives at Fuckass LARPER Edition by me. This code is UNFINISHED, and contains some unused code for unimplemented mechanics. This game will not be receiving updates because I am not permitted to update or release the game. All third party extensions used are included. NOTE: This MFA requires the Clickteam Fusion Developer and 2.5+ DLCs.
+The source of the FNaF fangame Five Fives at Fuckass LARPER Edition by me. This code is UNFINISHED, and contains some unused code for unimplemented mechanics. This game will not be receiving updates because I am not permitted to update or release the game. All third party extensions used are included. NOTE: This MFA requires the Clickteam Fusion Developer and 2.5+ DLCs. This app was built on version R296.9. It's recommended to be editing on that version or higher.
 
 This MFA requires [FoxiooShaderPack](https://github.com/FoxiooOfficial/FoxiooShaderPack).
 
